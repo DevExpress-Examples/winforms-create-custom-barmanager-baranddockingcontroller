@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.Designer.vb](./VB/Form1.Designer.vb))
+* [Form1.Designer.cs](./CS/Form1.Designer.cs) (VB: [Form1.Designer.vb](./VB/Form1.Designer.vb))
+* [MyBarAndDockingController.cs](./CS/MyBarManager/MyBarAndDockingController.cs) (VB: [MyBarAndDockingController.vb](./VB/MyBarManager/MyBarAndDockingController.vb))
+* [MyBarButtonItem.cs](./CS/MyBarManager/MyBarButtonItem.cs) (VB: [MyBarButtonItem.vb](./VB/MyBarManager/MyBarButtonItem.vb))
+* [MyBarManager.cs](./CS/MyBarManager/MyBarManager.cs) (VB: [MyBarManager.vb](./VB/MyBarManager/MyBarManager.vb))
+* [MySkinBarManagerPaintStyle.cs](./CS/MyBarManager/MySkinBarManagerPaintStyle.cs) (VB: [MySkinBarManagerPaintStyle.vb](./VB/MyBarManager/MySkinBarManagerPaintStyle.vb))
+<!-- default file list end -->
 # How to create BarManager, BarAndDockingController and related class descendants
 
 

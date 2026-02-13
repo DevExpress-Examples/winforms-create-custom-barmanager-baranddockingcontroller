@@ -24,7 +24,7 @@ This example demonstrates how to create a custom Bar Manager (including infrustr
 * [MyBarManager.cs](./CS/MyBarManager/MyBarManager.cs) (VB: [MyBarManager.vb](./VB/MyBarManager/MyBarManager.vb))
 * [MySkinBarManagerPaintStyle.cs](./CS/MyBarManager/MySkinBarManagerPaintStyle.cs) (VB: [MySkinBarManagerPaintStyle.vb](./VB/MyBarManager/MySkinBarManagerPaintStyle.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-create-custom-barmanager-baranddockingcontroller&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-create-custom-barmanager-baranddockingcontroller&~~~was_helpful=no)
 
